@@ -1,0 +1,4 @@
+ExcelToSql lottery lottery.xlsx
+ExcelToSql lottery_probability lottery_probability.xlsx
+ExcelToSql game_constant game_constant.xlsx
+pause

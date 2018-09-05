@@ -1,4 +1,4 @@
 {
-    "Dsn":"root:yiyi2016@tcp(192.168.0.200)/FGO?parseTime=true",
+    "Dsn":"root:pass@tcp(127.0.0.1)/GOS?parseTime=true",
     "FilePath":"./sql/"
 }
